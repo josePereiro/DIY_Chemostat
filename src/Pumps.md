@@ -23,4 +23,4 @@ Required among | Part name | approx price per unit | buy link proposal
 
 ## Peristaltic Pump
 
-- [interesting](https://www.amazon.com/-/es/refrigerador-peque%C3%B1os-redondos-cilindro-oficina/dp/B07873ZCY4/ref=sr_1_31?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=neodymium+magnet+disc&qid=1635234373&sr=8-31)
+- [pumps](https://www.amazon.com/-/es/INTLLAB-dosificadora-perist%C3%A1ltico-laboratorio-anal%C3%ADtico/dp/B0791YL351/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=peristaltic+pump+arduino&qid=1635818338&sr=8-4)
